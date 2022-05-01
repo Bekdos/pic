@@ -1,6 +1,6 @@
 from PIL import Image
 
-im = Image.open('aa.jpg')
+im = Image.open('rav4.jpg')
 
 out = im.resize((1080,1080))
 
